@@ -1,0 +1,83 @@
+body {
+  background-color: #F4F9FB;
+  background-image: url("worldmap.png");
+  background-repeat: no-repeat;
+  background-position: center
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+h2 {
+  text-align: center;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+link {
+  color: red;
+}
+mark {
+  background-color: #FDCE00;
+}
+p {
+  color: dark-grey;
+}
+
+.welcome {
+margin: auto;
+background-color: #C08565;
+padding: 1%;
+width: 35%;
+
+color: black;
+font-family: 'Lato', sans-serif;
+outline-style: dashed;
+outline-offset: 100 px;
+text-align: justified;}
+
+.breedables {
+margin: auto;
+background-color: white;
+padding: 1%;
+width: 30%;
+
+color: grey;
+font-family: 'Lato', sans-serif;
+outline-style: dotted;
+text-align: justified;
+}
+
+/* Style all font awesome icons */
+.fa {
+ padding: 2px;
+ font-size: 30px;
+ width: 50px;
+ height: 16px
+ text-align: center;
+ text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+.fa-reddit {
+ background: #FF4500;
+ color: white;
+}
+
+.fa-instagram {
+ background: #FF6600;
+ color: white;
+}
+
+.fa-twitter {
+ background: #55ACEE;
+ color: white;
+}
+
+
+address {
+text-align: center;
+padding: 1%;
+}
