@@ -1,3 +1,11 @@
+@media only screen and (max-device-width: 480px) {
+  .welcome {
+width: 75%;}
+
+.breedables {
+width: 70%;
+}}
+
 body {
   background-color: #F4F9FB;
   background-image: url("worldmap.png");
